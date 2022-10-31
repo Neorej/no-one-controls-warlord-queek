@@ -1,1 +1,3 @@
-# no-one-controls-warlord-queek
+# No one controls Warlord Queek
+
+Mod for TWWH3
